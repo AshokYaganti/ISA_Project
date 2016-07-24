@@ -1,0 +1,7 @@
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\bin\Debug\DuplicateFiles.exe
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\bin\Debug\DuplicateFiles.pdb
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\obj\x86\Debug\DuplicateFiles.Properties.Resources.resources
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\obj\x86\Debug\DuplicateFiles.csproj.GenerateResource.Cache
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\obj\x86\Debug\DuplicateFiles.exe
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\obj\x86\Debug\DuplicateFiles.pdb
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\DuplicateFiles\DuplicateFiles\obj\x86\Debug\DuplicateFiles.csprojResolveAssemblyReference.cache

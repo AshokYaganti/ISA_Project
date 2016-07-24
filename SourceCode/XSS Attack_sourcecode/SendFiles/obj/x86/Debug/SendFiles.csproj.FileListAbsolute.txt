@@ -1,0 +1,8 @@
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\bin\Debug\SendFiles.exe
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\bin\Debug\SendFiles.pdb
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\obj\x86\Debug\SendFiles.Form1.resources
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\obj\x86\Debug\SendFiles.Properties.Resources.resources
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\obj\x86\Debug\SendFiles.csproj.GenerateResource.Cache
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\obj\x86\Debug\SendFiles.exe
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\obj\x86\Debug\SendFiles.pdb
+C:\Users\ashok\Documents\Visual Studio 2010\Projects\SendFiles\SendFiles\obj\x86\Debug\SendFiles.csprojResolveAssemblyReference.cache
